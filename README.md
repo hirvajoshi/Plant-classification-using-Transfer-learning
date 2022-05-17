@@ -1,1 +1,2 @@
 # Plant-classification-using-Transfer-learning
+As due to very high computation power of gpu based projects, the local farmers are not able to use applications that enables them to classify plants as small devices are not able to handle such high computation power and therefore, using transfer learning model that is LeNet model, we have create a machine learning algorith that uses low computation power running cpu and can be run on small devices shuch as mobile phones when connected and integrated through iot device.
